@@ -54,6 +54,10 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.committee {
+  color: #BD5D38;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
